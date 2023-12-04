@@ -5,6 +5,7 @@ other info: https://forum.arduino.cc/t/arduino-package-for-winnermicro-w801-w806
 
 comparison betweev W806 and w801: https://www.cnblogs.com/milton/p/15621540.html
 
-forum: https://www.eevblog.com/forum/microcontrollers/two-new-ish-mcus-from-winnermicro/
+forum1: https://www.eevblog.com/forum/microcontrollers/two-new-ish-mcus-from-winnermicro/
 
+forum2: https://forum.arduino.cc/t/arduino-package-for-winnermicro-w801-w806-and-compatible-boards/1158354
 
